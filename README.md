@@ -32,6 +32,14 @@ Jingqi Tong, Yurong Mou, Hangcheng Li, Mingzhe Li, Yongzhuo Yang, Ming Zhang, Qi
 Yang Luo, Xuanlei Zhao, Baijiong Lin, Lingting Zhu, Liyao Tang, Yuqi Liu, Ying-Cong Chen, Shengju Qian, Xin Wang, Yang You  
 📄 [Paper](https://arxiv.org/abs/2511.16668) | 💻 [Code](https://github.com/yangluo7/V-ReasonBench)
 
+**TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models** | *Nov 2025*  
+Harold Haodong Chen, Disen Lan, Wen-Jie Shu, Qingyang Liu, Zihan Wang, Sirui Chen, Wenkai Cheng, Kanghao Chen, Hongfei Zhang, Zixin Zhang, Rongjin Guo, Yu Cheng, Ying-Cong Chen  
+📄 [Paper](https://arxiv.org/abs/2511.13704) | 💻 [Code](https://github.com/EnVision-Research/TiViBench)
+
+**VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning** | *Mar 2025*  
+Ye Liu, Kevin Qinghong Lin, Chang Wen Chen, Mike Zheng Shou  
+📄 [Paper](https://arxiv.org/abs/2503.13444) | 💻 [Code](https://github.com/yeliudev/VideoMind)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request to add new papers or resources.
