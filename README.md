@@ -8,6 +8,10 @@
 
 ### 2025
 
+**VChain: Chain-of-Visual-Thought for Reasoning in Video Generation** | *Oct 2025*  
+Ziqi Huang, Ning Yu, Gordon Chen, Haonan Qiu, Paul Debevec, Ziwei Liu  
+📄 [Paper](https://arxiv.org/abs/2510.05094) | 💻 [Project](https://eyeline-labs.github.io/VChain/)
+
 **Can World Simulators Reason? Gen-ViRe: A Generative Visual Reasoning Benchmark** | *Nov 2025*  
 Xinxin Liu, Zhaopan Xu, Kai Wang, Yong Jae Lee, Yuzhang Shang  
 📄 [Paper](https://arxiv.org/abs/2511.13853) | 💻 [Code](https://github.com/L-CodingSpace/GVR)
