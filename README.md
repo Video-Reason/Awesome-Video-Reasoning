@@ -16,6 +16,10 @@ Gongfan Fang, Xinyin Ma, Xinchao Wang
 Xiaoyue Mi, Wenqing Yu, Jiesong Lian, Shibo Jie, Ruizhe Zhong, Zijun Liu, Guozhen Zhang, Zixiang Zhou, Zhiyong Xu, Yuan Zhou, Qinglin Lu, Fan Tang  
 📄 [Paper](https://arxiv.org/abs/2511.21541)
 
+**Video4Edit: Viewing Image Editing as a Degenerate Temporal Process** | *Nov 2025*  
+Xiaofan Li, Yanpeng Sun, Chenming Wu, Fan Duan, YuAn Wang, Weihao Bo, Yumeng Zhang, Dingkang Liang  
+📄 [Paper](https://arxiv.org/abs/2511.18131)
+
 **VChain: Chain-of-Visual-Thought for Reasoning in Video Generation** | *Oct 2025*  
 Ziqi Huang, Ning Yu, Gordon Chen, Haonan Qiu, Paul Debevec, Ziwei Liu  
 📄 [Paper](https://arxiv.org/abs/2510.05094) | 💻 [Project](https://eyeline-labs.github.io/VChain/)
@@ -55,6 +59,10 @@ Harold Haodong Chen, Disen Lan, Wen-Jie Shu, Qingyang Liu, Zihan Wang, Sirui Che
 **Video models are zero-shot learners and reasoners** | *Sep 2025*  
 Thaddäus Wiedemer, Yuxuan Li, Paul Vicol, Shixiang Shane Gu, Nick Matarese, Kevin Swersky, Been Kim, Priyank Jaini, Robert Geirhos  
 📄 [Paper](https://arxiv.org/abs/2509.20328) | 💻 [Project](https://video-zero-shot.github.io/)
+
+**Chain-of-Frames: Advancing Video Understanding in Multimodal LLMs via Frame-Aware Reasoning** | *May 2025*  
+Sara Ghazanfari, Francesco Croce, Nicolas Flammarion, Prashanth Krishnamurthy, Farshad Khorrami, Siddharth Garg  
+📄 [Paper](https://arxiv.org/abs/2506.00318) | 💻 [Code](https://github.com/SaraGhazanfari/CoF)
 
 **VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning** | *Mar 2025*  
 Ye Liu, Kevin Qinghong Lin, Chang Wen Chen, Mike Zheng Shou  
