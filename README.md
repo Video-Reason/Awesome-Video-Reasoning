@@ -64,7 +64,9 @@ Harold Haodong Chen, Disen Lan, Wen-Jie Shu, Qingyang Liu, Zihan Wang, Sirui Che
 Thaddäus Wiedemer, Yuxuan Li, Paul Vicol, Shixiang Shane Gu, Nick Matarese, Kevin Swersky, Been Kim, Priyank Jaini, Robert Geirhos  
 📄 [Paper](https://arxiv.org/abs/2509.20328) | 💻 [Project](https://video-zero-shot.github.io/)
 
-> **Note:** This repository **only includes works on reasoning with video models**. In general, we do **not** list works on language models or general multi-modal language models. 
+## Inclusion Criteria
+
+This repository **only includes works on reasoning with video models**. In general, we do **not** list works on language models or general multi-modal language models. 
 
 ## Contributing
 
