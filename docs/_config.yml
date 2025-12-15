@@ -1,0 +1,9 @@
+title: Awesome Video Reasoning
+description: A curated list of papers on reasoning in video generation models
+theme: jekyll-theme-cayman
+url: "https://video-reason.github.io"
+baseurl: "/Awesome-Video-Reasoning"
+
+plugins:
+  - jekyll-sitemap
+
