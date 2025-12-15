@@ -71,6 +71,9 @@ instance/
 # Sphinx documentation
 docs/_build/
 
+# Jekyll - auto-copied during GitHub Pages build
+docs/README.md
+
 # PyBuilder
 .pybuilder/
 target/
