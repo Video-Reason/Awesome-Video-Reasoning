@@ -8,9 +8,25 @@
 
 ### 2025
 
+**Video4Spatial: Towards Visuospatial Intelligence with Context-Guided Video Generation** | *Dec 2025*  
+Zeqi Xiao, Yiwei Zhao, Lingxiao Li, Yushi Lan, Ning Yu, Rahul Garg, Roshni Cooper, Mohammad H. Taghavi, Xingang Pan  
+📄 [Paper](https://arxiv.org/abs/2512.03040) | 💻 [Project](https://xizaoqu.github.io/video4spatial/)
+
+**WorldPack: Compressed Memory Improves Spatial Consistency in Video World Modeling** | *Dec 2025*  
+Yuta Oshima, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, Hiroki Furuta  
+📄 [Paper](https://arxiv.org/abs/2512.02473)
+
 **Evaluating Gemini Robotics Policies in a Veo World Simulator** | *Dec 2025*  
 Gemini Robotics Team, Coline Devin, Yilun Du, Debidatta Dwibedi, Ruiqi Gao, Abhishek Jindal, Thomas Kipf, Sean Kirmani, Fangchen Liu, Anirudha Majumdar, Andrew Marmon, Carolina Parada, Yulia Rubanova, Dhruv Shah, Vikas Sindhwani, Jie Tan, Fei Xia, Ted Xiao, Sherry Yang, Wenhao Yu, Allan Zhou  
 📄 [Paper](https://arxiv.org/abs/2512.10675)
+
+**RELIC: Interactive Video World Model with Long-Horizon Memory** | *Dec 2025*  
+Yicong Hong, Yiqun Mei, Chongjian Ge, Yiran Xu, Yang Zhou, Sai Bi, Yannick Hold-Geoffroy, Mike Roberts, Matthew Fisher, Eli Shechtman, Kalyan Sunkavalli, Feng Liu, Zhengqi Li, Hao Tan  
+📄 [Paper](https://arxiv.org/abs/2512.04040)
+
+**Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation** | *Dec 2025*  
+Yunhong Lu, Yanhong Zeng, Haobo Li, Hao Ouyang, Qiuyu Wang, Ka Leong Cheng, Jiapeng Zhu, Hengyuan Cao, Zhipeng Zhang, Xing Zhu, Yujun Shen, Min Zhang  
+📄 [Paper](https://arxiv.org/abs/2512.04678) | 💻 [Project](https://reward-forcing.github.io/)
 
 **Astra: General Interactive World Model with Autoregressive Denoising** | *Dec 2025*  
 Yixuan Zhu, Jiaqi Feng, Wenzhao Zheng, Yuan Gao, Xin Tao, Pengfei Wan, Jie Zhou, Jiwen Lu  
@@ -20,29 +36,9 @@ Yixuan Zhu, Jiaqi Feng, Wenzhao Zheng, Yuan Gao, Xin Tao, Pengfei Wan, Jie Zhou,
 Zijian Zhou, Shikun Liu, Haozhe Liu, Haonan Qiu, Zhaochong An, Weiming Ren, Zhiheng Liu, Xiaoke Huang, Kam Woh Ng, Tian Xie, Xiao Han, Yuren Cong, Hang Li, Chuyan Zhu, Aditya Patel, Tao Xiang, Sen He  
 📄 [Paper](https://arxiv.org/abs/2512.06905) | 💻 [Project](https://franciszzj.github.io/Saber/)
 
-**Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation** | *Dec 2025*  
-Yunhong Lu, Yanhong Zeng, Haobo Li, Hao Ouyang, Qiuyu Wang, Ka Leong Cheng, Jiapeng Zhu, Hengyuan Cao, Zhipeng Zhang, Xing Zhu, Yujun Shen, Min Zhang  
-📄 [Paper](https://arxiv.org/abs/2512.04678) | 💻 [Project](https://reward-forcing.github.io/)
-
 **DDRL: Data-regularized Reinforcement Learning for Diffusion Models at Scale** | *Dec 2025*  
 Haotian Ye, Kaiwen Zheng, Jiashu Xu, Puheng Li, Huayu Chen, Jiaqi Han, Sheng Liu, Qinsheng Zhang, Hanzi Mao, Zekun Hao, Prithvijit Chattopadhyay, Dinghao Yang, Liang Feng, Maosheng Liao, Junjie Bai, Ming-Yu Liu, James Zou, Stefano Ermon  
 📄 [Paper](https://arxiv.org/abs/2512.04332)
-
-**RELIC: Interactive Video World Model with Long-Horizon Memory** | *Dec 2025*  
-Yicong Hong, Yiqun Mei, Chongjian Ge, Yiran Xu, Yang Zhou, Sai Bi, Yannick Hold-Geoffroy, Mike Roberts, Matthew Fisher, Eli Shechtman, Kalyan Sunkavalli, Feng Liu, Zhengqi Li, Hao Tan  
-📄 [Paper](https://arxiv.org/abs/2512.04040)
-
-**Video4Spatial: Towards Visuospatial Intelligence with Context-Guided Video Generation** | *Dec 2025*  
-Zeqi Xiao, Yiwei Zhao, Lingxiao Li, Yushi Lan, Ning Yu, Rahul Garg, Roshni Cooper, Mohammad H. Taghavi, Xingang Pan  
-📄 [Paper](https://arxiv.org/abs/2512.03040) | 💻 [Project](https://xizaoqu.github.io/video4spatial/)
-
-**WorldPack: Compressed Memory Improves Spatial Consistency in Video World Modeling** | *Dec 2025*  
-Yuta Oshima, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, Hiroki Furuta  
-📄 [Paper](https://arxiv.org/abs/2512.02473)
-
-**RULER-Bench: Probing Rule-based Reasoning Abilities of Next-level Video Generation Models for Vision Foundation Intelligence** | *Dec 2025*  
-Xuming He, Zehao Fan, Hengjia Li, Fan Zhuo, Hankun Xu, Senlin Cheng, Di Weng, Haifeng Liu, Can Ye, Boxi Wu  
-📄 [Paper](https://arxiv.org/abs/2512.02622) | 💻 [Project](https://hexmseeu.github.io/RULER-Bench-proj/)
 
 **Stable Video Infinity: Infinite-Length Video Generation with Error Recycling** | *Oct 2025*  
 Wuyang Li, Wentao Pan, Po-Chien Luan, Yang Gao, Alexandre Alahi  
@@ -51,6 +47,10 @@ Wuyang Li, Wentao Pan, Po-Chien Luan, Yang Gao, Alexandre Alahi
 **Why Diffusion Models Don't Memorize: The Role of Implicit Dynamical Regularization in Training** | *May 2025*  
 Tony Bonnaire, Raphaël Urfin, Giulio Biroli, Marc Mézard  
 📄 [Paper](https://arxiv.org/abs/2505.17638)
+
+**RULER-Bench: Probing Rule-based Reasoning Abilities of Next-level Video Generation Models for Vision Foundation Intelligence** | *Dec 2025*  
+Xuming He, Zehao Fan, Hengjia Li, Fan Zhuo, Hankun Xu, Senlin Cheng, Di Weng, Haifeng Liu, Can Ye, Boxi Wu  
+📄 [Paper](https://arxiv.org/abs/2512.02622) | 💻 [Project](https://hexmseeu.github.io/RULER-Bench-proj/)
 
 **What about gravity in video generation? Post-Training Newton's Laws with Verifiable Rewards** | *Nov 2025*  
 Minh-Quan Le, Yuanzhi Zhu, Vicky Kalogeiton, Dimitris Samaras  
