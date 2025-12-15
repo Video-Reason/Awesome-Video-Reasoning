@@ -71,6 +71,9 @@ instance/
 # Sphinx documentation
 docs/_build/
 
+# Jekyll auto-generated files
+docs/index.md
+
 # PyBuilder
 .pybuilder/
 target/
