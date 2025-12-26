@@ -8,6 +8,10 @@
 
 ### 2025
 
+**Spatia: Video Generation with Updatable Spatial Memory** | *Dec 2025*  
+Jinjing Zhao, Fangyun Wei, Zhening Liu, Hongyang Zhang, Chang Xu, Yan Lu  
+📄 [Paper](https://arxiv.org/abs/2512.15716) | 💻 [Project](https://zhaojingjing713.github.io/Spatia/)
+
 **Video4Spatial: Towards Visuospatial Intelligence with Context-Guided Video Generation** | *Dec 2025*  
 Zeqi Xiao, Yiwei Zhao, Lingxiao Li, Yushi Lan, Ning Yu, Rahul Garg, Roshni Cooper, Mohammad H. Taghavi, Xingang Pan  
 📄 [Paper](https://arxiv.org/abs/2512.03040) | 💻 [Project](https://xizaoqu.github.io/video4spatial/)
