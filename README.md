@@ -40,6 +40,10 @@ Zijian Zhou, Shikun Liu, Haozhe Liu, Haonan Qiu, Zhaochong An, Weiming Ren, Zhih
 Haotian Ye, Kaiwen Zheng, Jiashu Xu, Puheng Li, Huayu Chen, Jiaqi Han, Sheng Liu, Qinsheng Zhang, Hanzi Mao, Zekun Hao, Prithvijit Chattopadhyay, Dinghao Yang, Liang Feng, Maosheng Liao, Junjie Bai, Ming-Yu Liu, James Zou, Stefano Ermon  
 📄 [Paper](https://arxiv.org/abs/2512.04332)
 
+**World Models That Know When They Don't Know: Controllable Video Generation with Calibrated Uncertainty** | *Dec 2025*  
+Zhiting Mei, Tenny Yin, Micah Baker, Ola Shorinwa, Anirudha Majumdar  
+📄 [Paper](https://arxiv.org/abs/2512.05927)
+
 **Stable Video Infinity: Infinite-Length Video Generation with Error Recycling** | *Oct 2025*  
 Wuyang Li, Wentao Pan, Po-Chien Luan, Yang Gao, Alexandre Alahi  
 📄 [Paper](https://arxiv.org/abs/2510.09212) | 💻 [Project](https://stable-video-infinity.github.io/homepage/)
