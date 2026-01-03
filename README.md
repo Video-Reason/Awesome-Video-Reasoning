@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> This repository **only includes works on reasoning with video models**. In general, we do **not** list works on language models or general multi-modal language models. 
+> This repository **only includes works on reasoning with video models**. In general, we do **not** list works on language models or multi-modal language models. 
 
 ## Papers
 
