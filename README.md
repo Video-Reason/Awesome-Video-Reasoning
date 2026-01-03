@@ -12,6 +12,10 @@
 Jinjing Zhao, Fangyun Wei, Zhening Liu, Hongyang Zhang, Chang Xu, Yan Lu  
 📄 [Paper](https://arxiv.org/abs/2512.15716) | 💻 [Project](https://zhaojingjing713.github.io/Spatia/)
 
+**MMGR: Multi-Modal Generative Reasoning** | *Dec 2025*  
+Zefan Cai, Haoyi Qiu, Tianyi Ma, Haozhe Zhao, Gengze Zhou, Kung-Hsiang Huang, Parisa Kordjamshidi, Minjia Zhang, Wen Xiao, Jiuxiang Gu, Nanyun Peng, Junjie Hu  
+📄 [Paper](https://arxiv.org/abs/2512.14691)
+
 **Video4Spatial: Towards Visuospatial Intelligence with Context-Guided Video Generation** | *Dec 2025*  
 Zeqi Xiao, Yiwei Zhao, Lingxiao Li, Yushi Lan, Ning Yu, Rahul Garg, Roshni Cooper, Mohammad H. Taghavi, Xingang Pan  
 📄 [Paper](https://arxiv.org/abs/2512.03040) | 💻 [Project](https://xizaoqu.github.io/video4spatial/)
