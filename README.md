@@ -8,6 +8,10 @@
 
 ### 2025
 
+**VIPER: Process-aware Evaluation for Generative Video Reasoning** | *Dec 2025*  
+Yifan Li, Yukai Gu, Yingqian Min, Zikang Liu, Yifan Du, Kun Zhou, Min Yang, Wayne Xin Zhao, Minghui Qiu  
+📄 [Paper](https://arxiv.org/abs/2512.24952)
+
 **Spatia: Video Generation with Updatable Spatial Memory** | *Dec 2025*  
 Jinjing Zhao, Fangyun Wei, Zhening Liu, Hongyang Zhang, Chang Xu, Yan Lu  
 📄 [Paper](https://arxiv.org/abs/2512.15716) | 💻 [Project](https://zhaojingjing713.github.io/Spatia/)
