@@ -6,6 +6,12 @@
 
 ## Papers
 
+### 2026
+
+**Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models** | *Jan 2026*  
+Jialong Wu, Xiaoying Zhang, Hongyi Yuan, Xiangcheng Zhang, Tianhao Huang, Changjing He, Chaoyi Deng, Renrui Zhang, Youbin Wu, Mingsheng Long  
+📄 [Paper](https://arxiv.org/abs/2601.19834) | 💻 [Project](https://thuml.github.io/Reasoning-Visual-World/)
+
 ### 2025
 
 **VIPER: Process-aware Evaluation for Generative Video Reasoning** | *Dec 2025*  
