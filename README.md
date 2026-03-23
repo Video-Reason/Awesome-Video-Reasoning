@@ -8,6 +8,14 @@
 
 ### 2026
 
+**Physion-Eval: Evaluating Physical Realism in Generated Video via Human Reasoning** | *Mar 2026*  
+Qin Zhang, Peiyu Jing, Hong-Xing Yu, Fangqiang Ding, Fan Nie, Weimin Wang, Yilun Du, James Zou, Jiajun Wu, Bing Shuai  
+📄 [Paper](https://arxiv.org/abs/2603.19607)
+
+**Demystifing Video Reasoning** | *Mar 2026*  
+Ruisi Wang, Zhongang Cai, Fanyi Pu, Junxiang Xu, Wanqi Yin, Maijunxian Wang, Ran Ji, Chenyang Gu, Bo Li, Ziqi Huang, Hokin Deng, Dahua Lin, Ziwei Liu, Lei Yang  
+📄 [Paper](https://arxiv.org/abs/2603.16870) | 💻 [Project](https://www.wruisi.com/demystifying_video_reasoning/)
+
 **Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence** | *Mar 2026*  
 Yuanyuan Gao, Hao Li, Yifei Liu, Xinhao Ji, Yuning Gong, Yuanjun Liao, Fangfu Liu, Manyuan Zhang, Yuchen Yang, Dan Xu, Xue Yang, Huaxi Huang, Hongjie Zhang, Ziwei Liu, Xiao Sun, Dingwen Zhang, Zhihang Zhong  
 📄 [Paper](https://arxiv.org/abs/2603.07660) | 💻 [Project](https://visionary-laboratory.github.io/holi-spatial/)
@@ -141,6 +149,10 @@ Harold Haodong Chen, Disen Lan, Wen-Jie Shu, Qingyang Liu, Zihan Wang, Sirui Che
 **Video models are zero-shot learners and reasoners** | *Sep 2025*  
 Thaddäus Wiedemer, Yuxuan Li, Paul Vicol, Shixiang Shane Gu, Nick Matarese, Kevin Swersky, Been Kim, Priyank Jaini, Robert Geirhos  
 📄 [Paper](https://arxiv.org/abs/2509.20328) | 💻 [Project](https://video-zero-shot.github.io/)
+
+**Impossible Videos** | *Mar 2025*  
+Zechen Bai, Hai Ci, Mike Zheng Shou  
+📄 [Paper](https://arxiv.org/abs/2503.14378)
 
 ## Contributing
 
