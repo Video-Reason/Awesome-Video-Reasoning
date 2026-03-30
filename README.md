@@ -8,6 +8,14 @@
 
 ### 2026
 
+**World Reasoning Arena** | *Mar 2026*  
+PAN Team Institute of Foundation Models: Qiyue Gao, Kun Zhou, Jiannan Xiang, Zihan Liu, Dequan Yang, Junrong Chen, Arif Ahmad, Cong Zeng, Ganesh Bannur, Xinqi Huang, Zheqi Liu, Yi Gu, Yichi Yang, Guangyi Liu, Zhiting Hu, Zhengzhong Liu, Eric Xing  
+📄 [Paper](https://arxiv.org/abs/2603.25887) | 💻 [Code](https://github.com/MBZUAI-IFM/WR-Arena)
+
+**MME-CoF-Pro: Evaluating Reasoning Coherence in Video Generative Models with Text and Visual Hints** | *Mar 2026*  
+Yu Qi, Xinyi Xu, Ziyu Guo, Siyuan Ma, Renrui Zhang, Xinyan Chen, Ruichuan An, Ruofan Xing, Jiayi Zhang, Haojie Huang, Pheng-Ann Heng, Jonathan Tremblay, Lawson L.S. Wong  
+📄 [Paper](https://arxiv.org/abs/2603.20194)
+
 **Physion-Eval: Evaluating Physical Realism in Generated Video via Human Reasoning** | *Mar 2026*  
 Qin Zhang, Peiyu Jing, Hong-Xing Yu, Fangqiang Ding, Fan Nie, Weimin Wang, Yilun Du, James Zou, Jiajun Wu, Bing Shuai  
 📄 [Paper](https://arxiv.org/abs/2603.19607)
