@@ -8,6 +8,34 @@
 
 ### 2026
 
+**World Reasoning Arena** | *Mar 2026*  
+PAN Team Institute of Foundation Models: Qiyue Gao, Kun Zhou, Jiannan Xiang, Zihan Liu, Dequan Yang, Junrong Chen, Arif Ahmad, Cong Zeng, Ganesh Bannur, Xinqi Huang, Zheqi Liu, Yi Gu, Yichi Yang, Guangyi Liu, Zhiting Hu, Zhengzhong Liu, Eric Xing  
+📄 [Paper](https://arxiv.org/abs/2603.25887) | 💻 [Code](https://github.com/MBZUAI-IFM/WR-Arena)
+
+**MME-CoF-Pro: Evaluating Reasoning Coherence in Video Generative Models with Text and Visual Hints** | *Mar 2026*  
+Yu Qi, Xinyi Xu, Ziyu Guo, Siyuan Ma, Renrui Zhang, Xinyan Chen, Ruichuan An, Ruofan Xing, Jiayi Zhang, Haojie Huang, Pheng-Ann Heng, Jonathan Tremblay, Lawson L.S. Wong  
+📄 [Paper](https://arxiv.org/abs/2603.20194)
+
+**Physion-Eval: Evaluating Physical Realism in Generated Video via Human Reasoning** | *Mar 2026*  
+Qin Zhang, Peiyu Jing, Hong-Xing Yu, Fangqiang Ding, Fan Nie, Weimin Wang, Yilun Du, James Zou, Jiajun Wu, Bing Shuai  
+📄 [Paper](https://arxiv.org/abs/2603.19607)
+
+**Demystifing Video Reasoning** | *Mar 2026*  
+Ruisi Wang, Zhongang Cai, Fanyi Pu, Junxiang Xu, Wanqi Yin, Maijunxian Wang, Ran Ji, Chenyang Gu, Bo Li, Ziqi Huang, Hokin Deng, Dahua Lin, Ziwei Liu, Lei Yang  
+📄 [Paper](https://arxiv.org/abs/2603.16870) | 💻 [Project](https://www.wruisi.com/demystifying_video_reasoning/)
+
+**Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence** | *Mar 2026*  
+Yuanyuan Gao, Hao Li, Yifei Liu, Xinhao Ji, Yuning Gong, Yuanjun Liao, Fangfu Liu, Manyuan Zhang, Yuchen Yang, Dan Xu, Xue Yang, Huaxi Huang, Hongjie Zhang, Ziwei Liu, Xiao Sun, Dingwen Zhang, Zhihang Zhong  
+📄 [Paper](https://arxiv.org/abs/2603.07660) | 💻 [Project](https://visionary-laboratory.github.io/holi-spatial/)
+
+**A Very Big Video Reasoning Suite** | *Feb 2026*  
+Maijunxian Wang, Ruisi Wang, Juyi Lin, Ran Ji, Thaddäus Wiedemer, Qingying Gao, Dezhi Luo, Yaoyao Qian, Lianyu Huang, Zelong Hong, Jiahui Ge, Qianli Ma, Hang He, Yifan Zhou, Lingzi Guo, Lantao Mei, Jiachen Li, Hanwen Xing, Tianqi Zhao, Fengyuan Yu, Weihang Xiao, Yizheng Jiao, Jianheng Hou, Danyang Zhang, Pengcheng Xu, Boyang Zhong, Zehong Zhao, Gaoyun Fang, John Kitaoka, Yile Xu, Hua Xu, Kenton Blacutt, Tin Nguyen, Siyuan Song, Haoran Sun, Shaoyue Wen, Linyang He, Runming Wang, Yanzhi Wang, Mengyue Yang, Ziqiao Ma, Raphaël Millière, Freda Shi, Nuno Vasconcelos, Daniel Khashabi, Alan Yuille, Yilun Du, Ziming Liu, Bo Li, Dahua Lin, Ziwei Liu, Vikash Kumar, Yijiang Li, Lei Yang, Zhongang Cai, Hokin Deng  
+📄 [Paper](https://arxiv.org/abs/2602.20159) | 💻 [Project](https://video-reason.com/)
+
+**From Perception to Action: An Interactive Benchmark for Vision Reasoning** | *Feb 2026*  
+Yuhao Wu, Maojia Song, Yihuai Lan, Lei Wang, Zhiqiang Hu, Yao Xiao, Heng Zhou, Weihua Zheng, Dylan Raharja, Soujanya Poria, Roy Ka-Wei Lee  
+📄 [Paper](https://arxiv.org/abs/2602.21015) | 💻 [Project](https://social-ai-studio.github.io/CHAIN/)
+
 **Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models** | *Jan 2026*  
 Jialong Wu, Xiaoying Zhang, Hongyi Yuan, Xiangcheng Zhang, Tianhao Huang, Changjing He, Chaoyi Deng, Renrui Zhang, Youbin Wu, Mingsheng Long  
 📄 [Paper](https://arxiv.org/abs/2601.19834) | 💻 [Project](https://thuml.github.io/Reasoning-Visual-World/)
@@ -135,6 +163,10 @@ Thaddäus Wiedemer, Yuxuan Li, Paul Vicol, Shixiang Shane Gu, Nick Matarese, Kev
 **Pathways on the Image Manifold: Image Editing via Video Generation** | *Nov 2024*  
 Noam Rotstein, Gal Yona, Daniel Silver, Roy Velich, David Bensaïd, Ron Kimmel  
 📄 [Paper](https://arxiv.org/abs/2411.16819) | 💻 [Project](https://rotsteinnoam.github.io/Frame2Frame/)
+
+**Impossible Videos** | *Mar 2025*  
+Zechen Bai, Hai Ci, Mike Zheng Shou  
+📄 [Paper](https://arxiv.org/abs/2503.14378)
 
 ## Contributing
 
