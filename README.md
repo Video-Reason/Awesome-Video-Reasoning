@@ -158,6 +158,12 @@ Harold Haodong Chen, Disen Lan, Wen-Jie Shu, Qingyang Liu, Zihan Wang, Sirui Che
 Thaddäus Wiedemer, Yuxuan Li, Paul Vicol, Shixiang Shane Gu, Nick Matarese, Kevin Swersky, Been Kim, Priyank Jaini, Robert Geirhos  
 📄 [Paper](https://arxiv.org/abs/2509.20328) | 💻 [Project](https://video-zero-shot.github.io/)
 
+### 2024
+
+**Pathways on the Image Manifold: Image Editing via Video Generation** | *Nov 2024*  
+Noam Rotstein, Gal Yona, Daniel Silver, Roy Velich, David Bensaïd, Ron Kimmel  
+📄 [Paper](https://arxiv.org/abs/2411.16819) | 💻 [Project](https://rotsteinnoam.github.io/Frame2Frame/)
+
 **Impossible Videos** | *Mar 2025*  
 Zechen Bai, Hai Ci, Mike Zheng Shou  
 📄 [Paper](https://arxiv.org/abs/2503.14378)
