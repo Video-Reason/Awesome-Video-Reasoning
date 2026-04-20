@@ -78,6 +78,10 @@ Yunhong Lu, Yanhong Zeng, Haobo Li, Hao Ouyang, Qiuyu Wang, Ka Leong Cheng, Jiap
 Yixuan Zhu, Jiaqi Feng, Wenzhao Zheng, Yuan Gao, Xin Tao, Pengfei Wan, Jie Zhou, Jiwen Lu  
 📄 [Paper](https://arxiv.org/abs/2512.08931) | 💻 [Code](https://github.com/EternalEvan/Astra)
 
+**VideoCoF: Unified Video Editing with Temporal Reasoner** | *Dec 2025*  
+Xiangpeng Yang, Ji Xie, Yiyuan Yang, Yue Ma, Yan Huang, Min Xu, Qiang Wu  
+📄 [Paper](https://arxiv.org/abs/2512.07469) | 💻 [Project](https://videocof.github.io/)
+
 **Saber: Scaling Zero-Shot Reference-to-Video Generation** | *Dec 2025*  
 Zijian Zhou, Shikun Liu, Haozhe Liu, Haonan Qiu, Zhaochong An, Weiming Ren, Zhiheng Liu, Xiaoke Huang, Kam Woh Ng, Tian Xie, Xiao Han, Yuren Cong, Hang Li, Chuyan Zhu, Aditya Patel, Tao Xiang, Sen He  
 📄 [Paper](https://arxiv.org/abs/2512.06905) | 💻 [Project](https://franciszzj.github.io/Saber/)
