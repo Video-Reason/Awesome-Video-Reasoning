@@ -40,6 +40,10 @@ Yuhao Wu, Maojia Song, Yihuai Lan, Lei Wang, Zhiqiang Hu, Yao Xiao, Heng Zhou, W
 Jialong Wu, Xiaoying Zhang, Hongyi Yuan, Xiangcheng Zhang, Tianhao Huang, Changjing He, Chaoyi Deng, Renrui Zhang, Youbin Wu, Mingsheng Long  
 📄 [Paper](https://arxiv.org/abs/2601.19834) | 💻 [Project](https://thuml.github.io/Reasoning-Visual-World/)
 
+**CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation** | *Jan 2026*  
+Chengzhuo Tong, Mingkun Chang, Shenglong Zhang, Yuran Wang, Cheng Liang, Zhizheng Zhao, Ruichuan An, Bohan Zeng, Yang Shi, Yifan Dai, Ziming Zhao, Guanbin Li, Pengfei Wan, Yuanxing Zhang, Wentao Zhang  
+📄 [Paper](https://arxiv.org/abs/2601.10061)
+
 ### 2025
 
 **VIPER: Process-aware Evaluation for Generative Video Reasoning** | *Dec 2025*  
