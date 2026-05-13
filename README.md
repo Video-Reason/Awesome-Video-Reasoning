@@ -8,6 +8,10 @@
 
 ### 2026
 
+**CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models** | *May 2026*  
+Joowon Kim, Seungho Shin, Joonhyung Park, Eunho Yang  
+📄 [Paper](https://arxiv.org/abs/2605.08735) | 💻 [Project](https://joow0n-kim.github.io/collabvr-project-page/)
+
 **World Reasoning Arena** | *Mar 2026*  
 PAN Team Institute of Foundation Models: Qiyue Gao, Kun Zhou, Jiannan Xiang, Zihan Liu, Dequan Yang, Junrong Chen, Arif Ahmad, Cong Zeng, Ganesh Bannur, Xinqi Huang, Zheqi Liu, Yi Gu, Yichi Yang, Guangyi Liu, Zhiting Hu, Zhengzhong Liu, Eric Xing  
 📄 [Paper](https://arxiv.org/abs/2603.25887) | 💻 [Code](https://github.com/MBZUAI-IFM/WR-Arena)
