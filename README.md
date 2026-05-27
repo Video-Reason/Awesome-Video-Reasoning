@@ -64,6 +64,10 @@ Yuxiang Feng, Juncheng Wang, Chao Xu, Yijie Qian, Huihan Wang, Wenlong Hou, Yang
 Joowon Kim, Seungho Shin, Joonhyung Park, Eunho Yang  
 📄 [Paper](https://arxiv.org/abs/2605.08735) | 💻 [Project](https://joow0n-kim.github.io/collabvr-project-page/)
 
+**How Far Are Video Models from True Multimodal Reasoning?** | *Apr 2026*  
+Xiaotian Zhang, Jianhui Wei, Yuan Wang, Jie Tan, Yichen Li, Yan Zhang, Ziyi Chen, Daoan Zhang, Dezhi YU, Wei Xu, Songtao Jiang, Zuozhu Liu  
+📄 [Paper](https://arxiv.org/abs/2604.19193) | 💻 [Code](https://github.com/Monncyann/CLVG-Bench)
+
 **VOID: Video Object and Interaction Deletion** | *Apr 2026*  
 Saman Motamed, William Harvey, Benjamin Klein, Luc Van Gool, Zhuoning Yuan, Ta-Ying Cheng  
 📄 [Paper](https://arxiv.org/abs/2604.02296)
