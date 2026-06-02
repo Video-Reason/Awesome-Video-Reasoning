@@ -10,7 +10,7 @@
 
 **VLMs are Good Teachers for Video Reasoning via Adaptive Test-Time Optimization** | *Jun 2026*  
 Junhao Cheng, Liang Hou, Tianxiong Zhong, Xin Tao, Pengfei Wan, Kun Gai, Jing Liao  
-📄 [Paper](https://arxiv.org/abs/2606.02564)
+📄 [Paper](https://arxiv.org/abs/2606.02564) | 💻 [Project](https://vlm-as-teacher.github.io/)
 
 **CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models** | *May 2026*  
 Joowon Kim, Seungho Shin, Joonhyung Park, Eunho Yang  
