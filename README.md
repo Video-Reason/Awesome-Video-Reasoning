@@ -16,6 +16,10 @@ Weijie Wang, Haoyu Zhao, Yifan Yang, Feng Chen, Zeyu Zhang, Yefei He, Zicheng Du
 Junhao Cheng, Liang Hou, Tianxiong Zhong, Xin Tao, Pengfei Wan, Kun Gai, Jing Liao  
 📄 [Paper](https://arxiv.org/abs/2606.02564) | 💻 [Project](https://vlm-as-teacher.github.io/)
 
+**NEWTON: Agentic Planning for Physically Grounded Video Generation** | *May 2026*  
+Yuxiang Feng, Juncheng Wang, Chao Xu, Yijie Qian, Huihan Wang, Wenlong Hou, Yang Liu, Baigui Sun, Yong Liu, Shujun Wang  
+📄 [Paper](https://arxiv.org/abs/2605.18396)
+
 **CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models** | *May 2026*  
 Joowon Kim, Seungho Shin, Joonhyung Park, Eunho Yang  
 📄 [Paper](https://arxiv.org/abs/2605.08735) | 💻 [Project](https://joow0n-kim.github.io/collabvr-project-page/)
