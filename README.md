@@ -24,6 +24,10 @@ Parsa Esmati, Somjit Nath, Katja Hofmann, Derek Nowrouzezahrai, Samira Ebrahimi 
 Junhao Cheng, Liang Hou, Tianxiong Zhong, Xin Tao, Pengfei Wan, Kun Gai, Jing Liao  
 📄 [Paper](https://arxiv.org/abs/2606.02564) | 💻 [Project](https://vlm-as-teacher.github.io/)
 
+**MPMWorlds: Material-Point-Method Simulations for Inferring and Extrapolating Physical Dynamics** | *Jun 2026*  
+Žiga Kovačič, Kevin Ellis  
+📄 [Paper](https://arxiv.org/abs/2606.01538) | 💻 [Project](https://zzigak.github.io/mpmworlds/)
+
 **NEWTON: Agentic Planning for Physically Grounded Video Generation** | *May 2026*  
 Yuxiang Feng, Juncheng Wang, Chao Xu, Yijie Qian, Huihan Wang, Wenlong Hou, Yang Liu, Baigui Sun, Yong Liu, Shujun Wang  
 📄 [Paper](https://arxiv.org/abs/2605.18396)
