@@ -12,6 +12,14 @@
 Weijie Wang, Haoyu Zhao, Yifan Yang, Feng Chen, Zeyu Zhang, Yefei He, Zicheng Duan, Donny Y. Chen, Yuqing Yang, Bohan Zhuang  
 📄 [Paper](https://arxiv.org/abs/2606.09828) | 💻 [Project](https://aka.ms/latent-spatial-memory) | 💻 [Code](https://github.com/microsoft/LatentSpatialMemory)
 
+**Do Video Foundation Models Understand Intuitive Physics? A Layerwise Probing Analysis** | *Jun 2026*  
+Samuele Punzo, Niccolò Caselli, Ippokratis Pantelidis, Francesco Massafra, Salvatore Lo Sardo, Mohammadreza Salehi  
+📄 [Paper](https://arxiv.org/abs/2606.09646)
+
+**The Invisible Hand of Physics: When Video Diffusion Models Know More Than They Show** | *Jun 2026*  
+Parsa Esmati, Somjit Nath, Katja Hofmann, Derek Nowrouzezahrai, Samira Ebrahimi Kahou, Majid Mirmehdi  
+📄 [Paper](https://arxiv.org/abs/2606.05328)
+
 **VLMs are Good Teachers for Video Reasoning via Adaptive Test-Time Optimization** | *Jun 2026*  
 Junhao Cheng, Liang Hou, Tianxiong Zhong, Xin Tao, Pengfei Wan, Kun Gai, Jing Liao  
 📄 [Paper](https://arxiv.org/abs/2606.02564) | 💻 [Project](https://vlm-as-teacher.github.io/)
