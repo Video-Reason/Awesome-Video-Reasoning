@@ -36,6 +36,10 @@ Yuxiang Feng, Juncheng Wang, Chao Xu, Yijie Qian, Huihan Wang, Wenlong Hou, Yang
 Joowon Kim, Seungho Shin, Joonhyung Park, Eunho Yang  
 📄 [Paper](https://arxiv.org/abs/2605.08735) | 💻 [Project](https://joow0n-kim.github.io/collabvr-project-page/)
 
+**VOID: Video Object and Interaction Deletion** | *Apr 2026*  
+Saman Motamed, William Harvey, Benjamin Klein, Luc Van Gool, Zhuoning Yuan, Ta-Ying Cheng  
+📄 [Paper](https://arxiv.org/abs/2604.02296)
+
 **World Reasoning Arena** | *Mar 2026*  
 PAN Team Institute of Foundation Models: Qiyue Gao, Kun Zhou, Jiannan Xiang, Zihan Liu, Dequan Yang, Junrong Chen, Arif Ahmad, Cong Zeng, Ganesh Bannur, Xinqi Huang, Zheqi Liu, Yi Gu, Yichi Yang, Guangyi Liu, Zhiting Hu, Zhengzhong Liu, Eric Xing  
 📄 [Paper](https://arxiv.org/abs/2603.25887) | 💻 [Code](https://github.com/MBZUAI-IFM/WR-Arena)
