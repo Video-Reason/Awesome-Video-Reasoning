@@ -8,6 +8,10 @@
 
 ### 2026
 
+**Physics-IQ Verified** | *Jun 2026*  
+Tim Rädsch, Yuki M Asano, Hilde Kuehne, Stefan Bauer, Priyank Jaini, Robert Geirhos, Carsten T. Lüth  
+📄 [Paper](https://arxiv.org/abs/2606.18943)
+
 **Latent Spatial Memory for Video World Models** | *Jun 2026*  
 Weijie Wang, Haoyu Zhao, Yifan Yang, Feng Chen, Zeyu Zhang, Yefei He, Zicheng Duan, Donny Y. Chen, Yuqing Yang, Bohan Zhuang  
 📄 [Paper](https://arxiv.org/abs/2606.09828) | 💻 [Project](https://aka.ms/latent-spatial-memory) | 💻 [Code](https://github.com/microsoft/LatentSpatialMemory)
