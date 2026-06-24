@@ -32,6 +32,10 @@ Junhao Cheng, Liang Hou, Tianxiong Zhong, Xin Tao, Pengfei Wan, Kun Gai, Jing Li
 Žiga Kovačič, Kevin Ellis  
 📄 [Paper](https://arxiv.org/abs/2606.01538) | 💻 [Project](https://zzigak.github.io/mpmworlds/)
 
+**Turning Video Models into Generalist Robot Policies** | *May 2026*  
+Sizhe Lester Li, Evan Kim, Xingjian Bai, Tong Zhao, Tao Pang, Max Simchowitz, Vincent Sitzmann  
+📄 [Paper](https://arxiv.org/abs/2605.27817)
+
 **NEWTON: Agentic Planning for Physically Grounded Video Generation** | *May 2026*  
 Yuxiang Feng, Juncheng Wang, Chao Xu, Yijie Qian, Huihan Wang, Wenlong Hou, Yang Liu, Baigui Sun, Yong Liu, Shujun Wang  
 📄 [Paper](https://arxiv.org/abs/2605.18396)
