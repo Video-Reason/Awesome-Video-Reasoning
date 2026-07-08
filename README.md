@@ -8,6 +8,10 @@
 
 ### 2026
 
+**ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation** | *Jul 2026*  
+Ruihang Zhang, Felix Taubner, Pooja Ravi, Kiriakos N. Kutulakos, David B. Lindell  
+📄 [Paper](https://arxiv.org/abs/2607.06555) | 💻 [Project](https://ruihangzhang97.github.io/proxypose/)
+
 **Physics-IQ Verified** | *Jun 2026*  
 Tim Rädsch, Yuki M Asano, Hilde Kuehne, Stefan Bauer, Priyank Jaini, Robert Geirhos, Carsten T. Lüth  
 📄 [Paper](https://arxiv.org/abs/2606.18943)
