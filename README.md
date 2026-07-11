@@ -68,6 +68,10 @@ Qin Zhang, Peiyu Jing, Hong-Xing Yu, Fangqiang Ding, Fan Nie, Weimin Wang, Yilun
 Ruisi Wang, Zhongang Cai, Fanyi Pu, Junxiang Xu, Wanqi Yin, Maijunxian Wang, Ran Ji, Chenyang Gu, Bo Li, Ziqi Huang, Hokin Deng, Dahua Lin, Ziwei Liu, Lei Yang  
 📄 [Paper](https://arxiv.org/abs/2603.16870) | 💻 [Project](https://www.wruisi.com/demystifying_video_reasoning/)
 
+**EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models** | *Mar 2026*  
+Xuanlang Dai, Yujie Zhou, Long Xing, Jiazi Bu, Xilin Wei, Yuhong Liu, Beichen Zhang, Kai Chen, Yuhang Zang  
+📄 [Paper](https://arxiv.org/abs/2603.12252) | 💻 [Project](https://internlm.github.io/EndoCoT/)
+
 **Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence** | *Mar 2026*  
 Yuanyuan Gao, Hao Li, Yifei Liu, Xinhao Ji, Yuning Gong, Yuanjun Liao, Fangfu Liu, Manyuan Zhang, Yuchen Yang, Dan Xu, Xue Yang, Huaxi Huang, Hongjie Zhang, Ziwei Liu, Xiao Sun, Dingwen Zhang, Zhihang Zhong  
 📄 [Paper](https://arxiv.org/abs/2603.07660) | 💻 [Project](https://visionary-laboratory.github.io/holi-spatial/)
