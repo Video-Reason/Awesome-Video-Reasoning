@@ -8,6 +8,10 @@
 
 ### 2026
 
+**Video Generation Models are General-Purpose Vision Learners** | *Jul 2026*  
+Letian Wang, Chuhan Zhang, Rishabh Kabra, Jasper Uijlings, Steven Waslander, Andrew Zisserman, Joao Carreira, Kaiming He, Misha Andriluka, Eduard Gabriel Bazavan, Andrei Zanfir, Cristian Sminchisescu  
+📄 [Paper](https://arxiv.org/abs/2607.09024) | 💻 [Project](https://genception.github.io)
+
 **OpenCoF: Learning to Reason Through Video Generation** | *Jul 2026*  
 Xinyan Chen, Ziyu Guo, Renrui Zhang, Dongzhi Jiang, Hongsheng Li  
 📄 [Paper](https://arxiv.org/abs/2607.08763) | 💻 [Project](https://opencof.github.io/)
