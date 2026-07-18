@@ -8,6 +8,10 @@
 
 ### 2026
 
+**Hierarchical Denoising For Multi-Step Visual Reasoning** | *Jul 2026*  
+Zezhong Qian, Xiaowei Chi, Chak-Wing Mak, Tianze Zhou, Ruibin Yuan, Yuhan Rui, Hengzhe Sun, Zhuoqun Wu, Yuming Li, Siyuan Qian, Sirui Han, Shanghang Zhang  
+📄 [Paper](https://arxiv.org/abs/2607.15278) | 💻 [Project](https://hierarchical-diffusion-reasoning.github.io/)
+
 **Video Generation Models are General-Purpose Vision Learners** | *Jul 2026*  
 Letian Wang, Chuhan Zhang, Rishabh Kabra, Jasper Uijlings, Steven Waslander, Andrew Zisserman, Joao Carreira, Kaiming He, Misha Andriluka, Eduard Gabriel Bazavan, Andrei Zanfir, Cristian Sminchisescu  
 📄 [Paper](https://arxiv.org/abs/2607.09024) | 💻 [Project](https://genception.github.io)
