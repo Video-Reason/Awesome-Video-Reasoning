@@ -8,6 +8,10 @@
 
 ### 2026
 
+**PE-Field 4D: Video Generation Models as Canvas** | *Jul 2026*  
+Yunpeng Bai, Haoxiang Li, Qixing Huang  
+📄 [Paper](https://arxiv.org/abs/2607.15667) | 💻 [Code](https://github.com/MTLab/PE-Field)
+
 **Hierarchical Denoising For Multi-Step Visual Reasoning** | *Jul 2026*  
 Zezhong Qian, Xiaowei Chi, Chak-Wing Mak, Tianze Zhou, Ruibin Yuan, Yuhan Rui, Hengzhe Sun, Zhuoqun Wu, Yuming Li, Siyuan Qian, Sirui Han, Shanghang Zhang  
 📄 [Paper](https://arxiv.org/abs/2607.15278) | 💻 [Project](https://hierarchical-diffusion-reasoning.github.io/)
