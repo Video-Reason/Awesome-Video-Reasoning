@@ -8,6 +8,10 @@
 
 ### 2026
 
+**Visual Prompt Engineering for Video Models** | *Jul 2026*  
+Robert Geirhos, Yuxuan Li, Thaddäus Wiedemer, Neha Kalibhat, Zi Wang, Mani Malek, Oyvind Tafjord, Kevin Swersky, Been Kim, Priyank Jaini  
+📄 [Paper](https://arxiv.org/abs/2607.25537) | 💻 [Project](https://visual-prompt-engineering.github.io/)
+
 **PE-Field 4D: Video Generation Models as Canvas** | *Jul 2026*  
 Yunpeng Bai, Haoxiang Li, Qixing Huang  
 📄 [Paper](https://arxiv.org/abs/2607.15667) | 💻 [Code](https://github.com/MTLab/PE-Field)
