@@ -9,8 +9,8 @@
 ### 2026
 
 **VGI-Bench: Probing Visual Intelligence in Video Generation Models** | *Aug 2026*  
-Xuan He, Cong Wei, Yuhao Cheng, Linrui Ma, Yuxuan Zhang, Zuojun Li, Yuhao Wen, Zeyi Liu, Yuren Hao, Songcheng Cai, Keming Wu, Penghui Du, Kai Zou, Rui Yang, Chenkai Sun, Ke Yang, Ping Nie, Kelsey R. Allen, Chenglong Wang, Michel Galley, Jianfeng Gao, ChengXiang Zhai  
-📄 [Paper](https://arxiv.org/abs/2608.19583)
+Xuan He, Cong Wei, Yuhao Cheng, Linrui Ma, Yuxuan Zhang, Zuojun Li, Yuhao Wen, Jize Jiang, Zeyi Liu, Yuren Hao, Songcheng Cai, Keming Wu, Penghui Du, Kai Zou, Rui Yang, Chenkai Sun, Ke Yang, Ping Nie, Kelsey R. Allen, Chenglong Wang, Michel Galley, Jianfeng Gao, ChengXiang Zhai  
+📄 [Paper](https://arxiv.org/abs/2608.19583) | 💻 [Project](https://hexuan21.github.io/VGI-Bench/) | 💻 [Code](https://github.com/hexuan21/VGI-Bench)
 
 **Visual Prompt Engineering for Video Models** | *Jul 2026*  
 Robert Geirhos, Yuxuan Li, Thaddäus Wiedemer, Neha Kalibhat, Zi Wang, Mani Malek, Oyvind Tafjord, Kevin Swersky, Been Kim, Priyank Jaini  
