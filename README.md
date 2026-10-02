@@ -8,6 +8,10 @@
 
 ### 2026
 
+**Scaling Video Generation for Reasoning: At What Cost?** | *Sep 2026*  
+Weihang Guo, Xiaoyu Wu, Yifei Wang, Niloofar Mireshghallah, Lydia E. Kavraki  
+📄 [Paper](https://arxiv.org/abs/2609.36599)
+
 **VGI-Bench: Probing Visual Intelligence in Video Generation Models** | *Aug 2026*  
 Xuan He, Cong Wei, Yuhao Cheng, Linrui Ma, Yuxuan Zhang, Zuojun Li, Yuhao Wen, Zeyi Liu, Yuren Hao, Songcheng Cai, Keming Wu, Penghui Du, Kai Zou, Rui Yang, Chenkai Sun, Ke Yang, Ping Nie, Kelsey R. Allen, Chenglong Wang, Michel Galley, Jianfeng Gao, ChengXiang Zhai  
 📄 [Paper](https://arxiv.org/abs/2608.19583)
