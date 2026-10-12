@@ -8,6 +8,10 @@
 
 ### 2026
 
+**FracGen: Learning How Objects Stretch and Tear with Physics-Informed Video Generation** | *Sep 2026*  
+Trong-Tung Nguyen, Jiahan Zhang, Anand Bhattad  
+📄 [Paper](https://arxiv.org/abs/2609.38152) | 💻 [Project](https://fracgen.github.io/)
+
 **Scaling Video Generation for Reasoning: At What Cost?** | *Sep 2026*  
 Weihang Guo, Xiaoyu Wu, Yifei Wang, Niloofar Mireshghallah, Lydia E. Kavraki  
 📄 [Paper](https://arxiv.org/abs/2609.36599)
